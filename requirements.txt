@@ -1,0 +1,14 @@
+streamlit
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+huggingface_hub
+requests
+python-docx
+xhtml2pdf
+chardet
+nltk
+xlsxwriter
+pdfkit
