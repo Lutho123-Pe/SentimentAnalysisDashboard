@@ -1,6 +1,3 @@
-<<<<<<< Updated upstream
-# Sentiment-Analyzer
-=======
 
 # Sentiment Analyzer
 
