@@ -63,7 +63,7 @@ st.set_page_config(
 # -------------------------
 # Pre-configured Hugging Face API
 # -------------------------
-HF_API_KEY = "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"
+HF_API_KEY = ""
 
 # -------------------------
 # Initialize session state variables
